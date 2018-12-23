@@ -1,0 +1,69 @@
+[
+    {
+        "name": "mjaschen/phpgeo",
+        "version": "2.0.0",
+        "version_normalized": "2.0.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/mjaschen/phpgeo.git",
+            "reference": "080a41441d4b0e886d681633e515e2ffc1b180ac"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/mjaschen/phpgeo/zipball/080a41441d4b0e886d681633e515e2ffc1b180ac",
+            "reference": "080a41441d4b0e886d681633e515e2ffc1b180ac",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=7.0"
+        },
+        "require-dev": {
+            "apigen/apigen": "~4.1",
+            "phpunit/phpunit": "~6.0"
+        },
+        "time": "2017-09-27T07:29:46+00:00",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-0": {
+                "Location": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Marcus Jaschen",
+                "email": "mjaschen@gmail.com",
+                "homepage": "https://www.marcusjaschen.de/"
+            }
+        ],
+        "description": "Simple Geo Library",
+        "homepage": "https://phpgeo.marcusjaschen.de/",
+        "keywords": [
+            "Polygon",
+            "area",
+            "bearing",
+            "bounds",
+            "calculation",
+            "coordinate",
+            "distance",
+            "earth",
+            "ellipsoid",
+            "geo",
+            "geofence",
+            "gis",
+            "gps",
+            "haversine",
+            "length",
+            "point",
+            "polyline",
+            "projection",
+            "simplify",
+            "track",
+            "vincenty"
+        ]
+    }
+]
